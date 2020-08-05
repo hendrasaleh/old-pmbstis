@@ -32,7 +32,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.php">STIS HK | PMB</a>
+                <a class="navbar-brand" href="index.php">YAYASAN KOTA QUR'AN</a>
             </div>
 
             <div class="header-right">
